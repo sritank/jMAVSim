@@ -1,4 +1,0 @@
-[submodule "jMAVlib"]
-	path = jMAVlib
-	url = git@github.com:sritank/jMAVlib.git
-	branch = master
